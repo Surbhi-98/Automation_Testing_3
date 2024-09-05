@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "pytestsession"
+  ],
+  "python.analysis.extraPaths": [
+    "./src"
+  ]
+}
